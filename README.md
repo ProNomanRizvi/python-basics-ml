@@ -27,6 +27,18 @@ This repository documents my journey of learning Python for Machine Learning wit
 - Structured program design
 
 ---
+### Day 4: Lists & Data Processing
+- Understanding lists as datasets
+- Iterating through data using loops
+- Manual data processing (no shortcuts)
+- Filtering and cleaning data
+- Basic statistical operations (sum, max, min, average)
+
+#### 📂 Files
+- `list_sum.py` → Calculate sum of list manually
+- `max_number.py` → Find maximum value without built-in functions
+- `even_filter.py` → Extract even numbers from list
+- `student_marks_list.py` → Student marks analysis system using lists
 
 ## 📂 Project Files
 
