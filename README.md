@@ -58,6 +58,13 @@ This repository documents my journey of learning Python for Machine Learning, fo
 
 ---
 
+### Day 8: File Handling & Real Data Processing
+- Learned how to read data from text files
+- Processed numerical data from files (sum, average)
+- Implemented safe data parsing using try-except
+- Built file-based data cleaning system (handling invalid values)
+- Performed word frequency analysis on file data (basic NLP pipeline)
+
 ## 📂 Project Files
 
 ### 🔹 Basics
