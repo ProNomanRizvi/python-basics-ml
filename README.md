@@ -34,11 +34,19 @@ This repository documents my journey of learning Python for Machine Learning wit
 - Filtering and cleaning data
 - Basic statistical operations (sum, max, min, average)
 
+### Day 5: Manual Algorithms & Data Processing
+- Implemented core operations without built-in functions
+- Developed algorithmic thinking (sum, max, min, average)
+- Built data cleaning logic (handling invalid values)
+- Practiced input validation and edge case handling
+- Combined multiple functions into a mini data analysis system
+
 #### 📂 Files
-- `list_sum.py` → Calculate sum of list manually
-- `max_number.py` → Find maximum value without built-in functions
-- `even_filter.py` → Extract even numbers from list
-- `student_marks_list.py` → Student marks analysis system using lists
+- `manual_sum.py` → Calculate sum without using built-in functions
+- `max_min_manual.py` → Find maximum and minimum manually
+- `average_manual.py` → Compute average using manual logic
+- `data_cleaner.py` → Remove invalid values from dataset
+- `data_analysis.py` → Mini system combining all operations
 
 ## 📂 Project Files
 
@@ -85,6 +93,7 @@ This repository documents my journey of learning Python for Machine Learning wit
 - ✅ Day 2 Completed
 - ✅ Day 3 Completed
 - ✅ Day 4 Completed
+- ✅ Day 5 Completed
 ---
 
 ## 🎯 Goal
