@@ -49,6 +49,15 @@ This repository documents my journey of learning Python for Machine Learning, fo
 
 ---
 
+### Day 7: Dictionaries & Frequency Analysis
+- Learned dictionary structure (key-value pairs)
+- Performed data aggregation using dictionaries
+- Implemented manual sum and max on dictionary values
+- Improved word frequency logic with text normalization
+- Built character frequency counter (handling spaces and case)
+
+---
+
 ## 📂 Project Files
 
 ### 🔹 Basics
