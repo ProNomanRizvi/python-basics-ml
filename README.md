@@ -1,7 +1,7 @@
 # Python Foundations for Machine Learning
 
 ## 📌 Overview
-This repository documents my journey of learning Python for Machine Learning with a strong focus on problem solving, clean code, and structured programming.
+This repository documents my journey of learning Python for Machine Learning, focusing on problem solving, clean code, and structured programming.
 
 ---
 
@@ -26,7 +26,6 @@ This repository documents my journey of learning Python for Machine Learning wit
 - Modular programming
 - Structured program design
 
----
 ### Day 4: Lists & Data Processing
 - Understanding lists as datasets
 - Iterating through data using loops
@@ -41,67 +40,87 @@ This repository documents my journey of learning Python for Machine Learning wit
 - Practiced input validation and edge case handling
 - Combined multiple functions into a mini data analysis system
 
-#### 📂 Files
-- `manual_sum.py` → Calculate sum without using built-in functions
-- `max_min_manual.py` → Find maximum and minimum manually
-- `average_manual.py` → Compute average using manual logic
-- `data_cleaner.py` → Remove invalid values from dataset
-- `data_analysis.py` → Mini system combining all operations
+### Day 6: String Processing & Text Analysis
+- String manipulation and text handling
+- Character and word counting
+- Text cleaning (removing extra spaces, normalization)
+- Vowel counting
+- Word frequency using dictionaries (NLP foundation)
+
+---
 
 ## 📂 Project Files
 
 ### 🔹 Basics
-- `student_result.py` → Grade calculation system
-- `even_odd.py` → Even/Odd checker
-- `eligibility.py` → Rule-based eligibility system
+- `student_result.py` → Grade calculation system  
+- `even_odd.py` → Even/Odd checker  
+- `eligibility.py` → Rule-based eligibility system  
 
 ### 🔹 Loops
-- `loops_basic.py` → for & while loop practice
-- `sum_n.py` → Sum of first N numbers
-- `pattern.py` → Pattern printing
+- `loops_basic.py` → for & while loop practice  
+- `sum_n.py` → Sum of first N numbers  
+- `pattern.py` → Pattern printing  
 
 ### 🔹 Functions
-- `functions_basic.py` → Function fundamentals
-- `even_function.py` → Even/Odd function
-- `grade_function.py` → Grade system using functions
+- `functions_basic.py` → Function fundamentals  
+- `even_function.py` → Even/Odd function  
+- `grade_function.py` → Grade system using functions  
 
-### 🔹 Mini Projects
-- `guessing_game.py` → Basic version
-- `guessing_game_v2.py` → Loop-based version
-- `guessing_game_v3.py` → Structured modular version
+### 🔹 Lists & Data Processing
+- `list_sum.py` → Sum of list manually  
+- `max_number.py` → Find maximum without built-ins  
+- `even_filter.py` → Extract even numbers  
+- `student_marks_list.py` → Student marks analysis  
+
+### 🔹 Manual Algorithms
+- `manual_sum.py` → Manual sum implementation  
+- `max_min_manual.py` → Manual max and min  
+- `average_manual.py` → Manual average calculation  
+- `data_cleaner.py` → Remove invalid values  
+- `data_analysis.py` → Mini data analysis system  
+
+### 🔹 String Processing
+- `char_count.py` → Count characters excluding spaces  
+- `word_count.py` → Count number of words  
+- `vowel_count.py` → Count vowels  
+- `text_cleaner.py` → Clean and normalize text  
+- `word_frequency.py` → Word frequency using dictionary  
 
 ---
 
 ## 🚀 Skills Developed
-- Problem solving
-- Logical thinking
-- Code structuring
-- Input validation
-- Writing reusable functions
+- Problem solving  
+- Logical thinking  
+- Code structuring  
+- Input validation  
+- Algorithmic thinking  
+- Text processing (basic NLP concepts)  
 
 ---
 
 ## 🛠 Tools & Environment
-- Python
-- Git (Version Control)
-- GitHub
+- Python  
+- Git (Version Control)  
+- GitHub  
 
 ---
 
 ## 📈 Progress Tracker
-- ✅ Day 1 Completed
-- ✅ Day 2 Completed
-- ✅ Day 3 Completed
-- ✅ Day 4 Completed
-- ✅ Day 5 Completed
+- ✅ Day 1 Completed  
+- ✅ Day 2 Completed  
+- ✅ Day 3 Completed  
+- ✅ Day 4 Completed  
+- ✅ Day 5 Completed  
+- ✅ Day 6 Completed  
+
 ---
 
 ## 🎯 Goal
 To become a job-ready Machine Learning Engineer by mastering:
-- Python
-- Data handling
-- Machine Learning algorithms
-- Real-world projects
+- Python  
+- Data handling  
+- Machine Learning algorithms  
+- Real-world projects  
 
 ---
 
