@@ -84,8 +84,7 @@ This repository documents my journey of learning Python for Machine Learning wit
 - ✅ Day 1 Completed
 - ✅ Day 2 Completed
 - ✅ Day 3 Completed
-- 🔄 Day 4 In Progress
-
+- ✅ Day 4 Completed
 ---
 
 ## 🎯 Goal
