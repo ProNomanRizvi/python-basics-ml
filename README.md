@@ -37,14 +37,14 @@ python-ml-foundations/
 
 ---
 
-### 🔄 Phase 2: OOP in Python (Days 9–12)
+### ✅ Phase 2: OOP in Python (Days 9–11)
 
 | Day | Topic | Key Files |
 |-----|-------|-----------|
 | 9 | Classes, Objects, `__init__`, Methods | `bank_account.py`, `inventory.py` |
 | 10 | Encapsulation, Getters/Setters, Magic Methods | `product_v2.py`, `dataset.py` |
-| 11 | Inheritance | coming |
-| 12 | Polymorphism + OOP Project | coming |
+| 11 | Inheritance, Method Overriding, `super()` | `employee.py`, `pipeline.py` |
+| 12 | OOP Capstone Project | coming |
 
 ---
 
@@ -59,12 +59,16 @@ python-ml-foundations/
 
 **Phase 2:**
 - Class and object design
-- Separation of concerns (menu outside class)
+- Separation of concerns
 - Protected and private attributes
 - Getters and setters with validation
 - `__str__`, `__repr__`, `__len__` magic methods
-- Return-type discipline (`None` vs string vs bool)
+- Return-type discipline
 - Data integrity via encapsulation
+- Inheritance and method overriding
+- `super()` and constructor chaining
+- Abstract interfaces using `NotImplementedError`
+- Manual statistical calculations (mean, std_dev, normalization)
 
 ---
 
@@ -78,7 +82,7 @@ python-ml-foundations/
 ## 🎯 Master Roadmap
 
 - ✅ Phase 1: Python Mastery
-- 🔄 Phase 2: OOP (In Progress)
+- 🔄 Phase 2: OOP (Day 12 remaining)
 - ⬜ Phase 3: Data Handling (Pandas, NumPy)
 - ⬜ Phase 4: SQL + Databases
 - ⬜ Phase 5: Data Cleaning
