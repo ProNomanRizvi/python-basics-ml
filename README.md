@@ -13,8 +13,21 @@ Strict execution-based approach — no shortcuts, no copy-paste learning.
 ## 📂 Repository Structure
 ```
 python-ml-foundations/
-├── phase1_basics/       # Python fundamentals (Days 1–8)
-├── phase2_oop/          # Object-Oriented Programming (Days 9–12)
+├── phase1_basics/                  # Python fundamentals (Days 1–8)
+├── phase2_oop/                     # Object-Oriented Programming (Days 9–11)
+├── ml_preprocessing_engine/        # Phase 2 Capstone Project (Day 12)
+│   ├── data/
+│   │   ├── raw_data.txt
+│   │   └── report.txt
+│   ├── src/
+│   │   ├── base_pipeline.py
+│   │   ├── loader.py
+│   │   ├── cleaner.py
+│   │   ├── normalizer.py
+│   │   └── reporter.py
+│   ├── main.py
+│   ├── requirements.txt
+│   └── README.md
 └── README.md
 ```
 
@@ -37,14 +50,14 @@ python-ml-foundations/
 
 ---
 
-### ✅ Phase 2: OOP in Python (Days 9–11)
+### ✅ Phase 2: OOP in Python (Days 9–12)
 
 | Day | Topic | Key Files |
 |-----|-------|-----------|
 | 9 | Classes, Objects, `__init__`, Methods | `bank_account.py`, `inventory.py` |
 | 10 | Encapsulation, Getters/Setters, Magic Methods | `product_v2.py`, `dataset.py` |
 | 11 | Inheritance, Method Overriding, `super()` | `employee.py`, `pipeline.py` |
-| 12 | OOP Capstone Project | coming |
+| 12 | OOP Capstone Project | `ml_preprocessing_engine/` |
 
 ---
 
@@ -69,6 +82,7 @@ python-ml-foundations/
 - `super()` and constructor chaining
 - Abstract interfaces using `NotImplementedError`
 - Manual statistical calculations (mean, std_dev, normalization)
+- Multi-file project architecture (`src/`, `data/`, `main.py`)
 
 ---
 
@@ -82,8 +96,8 @@ python-ml-foundations/
 ## 🎯 Master Roadmap
 
 - ✅ Phase 1: Python Mastery
-- 🔄 Phase 2: OOP (Day 12 remaining)
-- ⬜ Phase 3: Data Handling (Pandas, NumPy)
+- ✅ Phase 2: OOP in Python
+- 🔄 Phase 3: Data Handling (Pandas, NumPy)
 - ⬜ Phase 4: SQL + Databases
 - ⬜ Phase 5: Data Cleaning
 - ⬜ Phase 6: Visualization
