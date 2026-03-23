@@ -4,8 +4,8 @@
 Structured Python learning program targeting Machine Learning Engineering.
 Strict execution-based approach — no shortcuts, no copy-paste learning.
 
-**Author:** Noman Rizvi
-**Goal:** Job-ready ML Engineer by 2026
+**Author:** Noman Rizvi  
+**Goal:** Job-ready ML Engineer by 2026  
 **Environment:** Kali Linux | Python 3.x
 
 ---
@@ -13,8 +13,8 @@ Strict execution-based approach — no shortcuts, no copy-paste learning.
 ## 📂 Repository Structure
 ```
 python-ml-foundations/
-├── phase1_basics/       # Python fundamentals
-├── phase2_oop/          # Object-Oriented Programming
+├── phase1_basics/       # Python fundamentals (Days 1–8)
+├── phase2_oop/          # Object-Oriented Programming (Days 9–12)
 └── README.md
 ```
 
@@ -41,8 +41,8 @@ python-ml-foundations/
 
 | Day | Topic | Key Files |
 |-----|-------|-----------|
-| 9 | Classes, Objects, __init__, Methods | `bank_account.py`, `inventory.py` |
-| 10 | Encapsulation + Magic Methods | coming |
+| 9 | Classes, Objects, `__init__`, Methods | `bank_account.py`, `inventory.py` |
+| 10 | Encapsulation, Getters/Setters, Magic Methods | `product_v2.py`, `dataset.py` |
 | 11 | Inheritance | coming |
 | 12 | Polymorphism + OOP Project | coming |
 
@@ -59,9 +59,12 @@ python-ml-foundations/
 
 **Phase 2:**
 - Class and object design
-- Separation of concerns
-- Instance methods and attributes
-- Return-type discipline (None vs string)
+- Separation of concerns (menu outside class)
+- Protected and private attributes
+- Getters and setters with validation
+- `__str__`, `__repr__`, `__len__` magic methods
+- Return-type discipline (`None` vs string vs bool)
+- Data integrity via encapsulation
 
 ---
 
