@@ -1,144 +1,88 @@
 # Python Foundations for Machine Learning
 
 ## 📌 Overview
-This repository documents my journey of learning Python for Machine Learning, focusing on problem solving, clean code, and structured programming.
+Structured Python learning program targeting Machine Learning Engineering.
+Strict execution-based approach — no shortcuts, no copy-paste learning.
+
+**Author:** Noman Rizvi
+**Goal:** Job-ready ML Engineer by 2026
+**Environment:** Kali Linux | Python 3.x
 
 ---
 
-## 🧠 Topics Covered
-
-### Day 1: Python Basics
-- Variables & Data Types
-- Input / Output
-- Conditional Statements
-- Basic Decision Systems
-
-### Day 2: Loops & Logic Building
-- for loops
-- while loops
-- Iteration logic
-- Pattern problems
-
-### Day 3: Functions & Code Structure
-- Function creation
-- Return vs print
-- Code reusability
-- Modular programming
-- Structured program design
-
-### Day 4: Lists & Data Processing
-- Understanding lists as datasets
-- Iterating through data using loops
-- Manual data processing (no shortcuts)
-- Filtering and cleaning data
-- Basic statistical operations (sum, max, min, average)
-
-### Day 5: Manual Algorithms & Data Processing
-- Implemented core operations without built-in functions
-- Developed algorithmic thinking (sum, max, min, average)
-- Built data cleaning logic (handling invalid values)
-- Practiced input validation and edge case handling
-- Combined multiple functions into a mini data analysis system
-
-### Day 6: String Processing & Text Analysis
-- String manipulation and text handling
-- Character and word counting
-- Text cleaning (removing extra spaces, normalization)
-- Vowel counting
-- Word frequency using dictionaries (NLP foundation)
+## 📂 Repository Structure
+```
+python-ml-foundations/
+├── phase1_basics/       # Python fundamentals
+├── phase2_oop/          # Object-Oriented Programming
+└── README.md
+```
 
 ---
 
-### Day 7: Dictionaries & Frequency Analysis
-- Learned dictionary structure (key-value pairs)
-- Performed data aggregation using dictionaries
-- Implemented manual sum and max on dictionary values
-- Improved word frequency logic with text normalization
-- Built character frequency counter (handling spaces and case)
+## 🧠 Progress Tracker
+
+### ✅ Phase 1: Python Mastery (Days 1–8)
+
+| Day | Topic | Key Files |
+|-----|-------|-----------|
+| 1 | Variables, I/O, Conditionals | `student_result.py`, `eligibility.py` |
+| 2 | Loops & Logic | `loops_basic.py`, `guessing_game_v2.py` |
+| 3 | Functions & Modularity | `functions_basic.py`, `guessing_game_v3.py` |
+| 4 | Lists & Data Processing | `list_sum.py`, `student_marks_list.py` |
+| 5 | Manual Algorithms | `data_analysis.py`, `max_min_manual.py` |
+| 6 | String Processing & NLP Basics | `word_frequency.py`, `text_cleaner.py` |
+| 7 | Dictionaries & Frequency Analysis | `dict_max.py`, `char_freq.py` |
+| 8 | File Handling & Real Data | `file_cleaner.py`, `file_word_freq.py` |
 
 ---
 
-### Day 8: File Handling & Real Data Processing
-- Learned how to read data from text files
-- Processed numerical data from files (sum, average)
-- Implemented safe data parsing using try-except
-- Built file-based data cleaning system (handling invalid values)
-- Performed word frequency analysis on file data (basic NLP pipeline)
+### 🔄 Phase 2: OOP in Python (Days 9–12)
 
-## 📂 Project Files
-
-### 🔹 Basics
-- `student_result.py` → Grade calculation system  
-- `even_odd.py` → Even/Odd checker  
-- `eligibility.py` → Rule-based eligibility system  
-
-### 🔹 Loops
-- `loops_basic.py` → for & while loop practice  
-- `sum_n.py` → Sum of first N numbers  
-- `pattern.py` → Pattern printing  
-
-### 🔹 Functions
-- `functions_basic.py` → Function fundamentals  
-- `even_function.py` → Even/Odd function  
-- `grade_function.py` → Grade system using functions  
-
-### 🔹 Lists & Data Processing
-- `list_sum.py` → Sum of list manually  
-- `max_number.py` → Find maximum without built-ins  
-- `even_filter.py` → Extract even numbers  
-- `student_marks_list.py` → Student marks analysis  
-
-### 🔹 Manual Algorithms
-- `manual_sum.py` → Manual sum implementation  
-- `max_min_manual.py` → Manual max and min  
-- `average_manual.py` → Manual average calculation  
-- `data_cleaner.py` → Remove invalid values  
-- `data_analysis.py` → Mini data analysis system  
-
-### 🔹 String Processing
-- `char_count.py` → Count characters excluding spaces  
-- `word_count.py` → Count number of words  
-- `vowel_count.py` → Count vowels  
-- `text_cleaner.py` → Clean and normalize text  
-- `word_frequency.py` → Word frequency using dictionary  
+| Day | Topic | Key Files |
+|-----|-------|-----------|
+| 9 | Classes, Objects, __init__, Methods | `bank_account.py`, `inventory.py` |
+| 10 | Encapsulation + Magic Methods | coming |
+| 11 | Inheritance | coming |
+| 12 | Polymorphism + OOP Project | coming |
 
 ---
 
 ## 🚀 Skills Developed
-- Problem solving  
-- Logical thinking  
-- Code structuring  
-- Input validation  
-- Algorithmic thinking  
-- Text processing (basic NLP concepts)  
+
+**Phase 1:**
+- Problem solving & algorithmic thinking
+- Input validation & edge case handling
+- Modular code design with functions
+- Text processing (NLP foundation)
+- File I/O & data cleaning
+
+**Phase 2:**
+- Class and object design
+- Separation of concerns
+- Instance methods and attributes
+- Return-type discipline (None vs string)
 
 ---
 
 ## 🛠 Tools & Environment
-- Python  
-- Git (Version Control)  
-- GitHub  
+- Python 3.x
+- Git & GitHub
+- Kali Linux
 
 ---
 
-## 📈 Progress Tracker
-- ✅ Day 1 Completed  
-- ✅ Day 2 Completed  
-- ✅ Day 3 Completed  
-- ✅ Day 4 Completed  
-- ✅ Day 5 Completed  
-- ✅ Day 6 Completed  
+## 🎯 Master Roadmap
 
----
-
-## 🎯 Goal
-To become a job-ready Machine Learning Engineer by mastering:
-- Python  
-- Data handling  
-- Machine Learning algorithms  
-- Real-world projects  
-
----
-
-## 👤 Author
-Noman Rizvi
+- ✅ Phase 1: Python Mastery
+- 🔄 Phase 2: OOP (In Progress)
+- ⬜ Phase 3: Data Handling (Pandas, NumPy)
+- ⬜ Phase 4: SQL + Databases
+- ⬜ Phase 5: Data Cleaning
+- ⬜ Phase 6: Visualization
+- ⬜ Phase 7: Statistics & Math for ML
+- ⬜ Phase 8: ML Algorithms
+- ⬜ Phase 9: Feature Engineering
+- ⬜ Phase 10: Real-world Projects
+- ⬜ Phase 11: Deployment
+- ⬜ Phase 12: Industry Practices
