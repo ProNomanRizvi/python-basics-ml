@@ -15,6 +15,7 @@ Strict execution-based approach — no shortcuts, no copy-paste learning.
 python-ml-foundations/
 ├── phase1_basics/                  # Python fundamentals (Days 1–8)
 ├── phase2_oop/                     # Object-Oriented Programming (Days 9–11)
+├── phase3_numpy_pandas/            # Data Handling — NumPy + Pandas (Days 13–16)
 ├── ml_preprocessing_engine/        # Phase 2 Capstone Project (Day 12)
 │   ├── data/
 │   │   ├── raw_data.txt
@@ -61,6 +62,17 @@ python-ml-foundations/
 
 ---
 
+### 🔄 Phase 3: Data Handling — NumPy + Pandas (Days 13–16)
+
+| Day | Topic | Key Files |
+|-----|-------|-----------|
+| 13 | NumPy Arrays, Vectorization, Statistical Operations | `numpy_analysis.py`, `student_analyzer.py` |
+| 14 | Pandas — Series, DataFrames, CSV Handling | coming |
+| 15 | Pandas — Filtering, Grouping, Aggregation | coming |
+| 16 | NumPy + Pandas Capstone Project | coming |
+
+---
+
 ## 🚀 Skills Developed
 
 **Phase 1:**
@@ -84,10 +96,20 @@ python-ml-foundations/
 - Manual statistical calculations (mean, std_dev, normalization)
 - Multi-file project architecture (`src/`, `data/`, `main.py`)
 
+**Phase 3:**
+- NumPy array creation and operations
+- Vectorized computing (no loops)
+- Statistical operations with NumPy
+- Boolean filtering and masking
+- Array reshaping
+- OOP with NumPy internals
+
 ---
 
 ## 🛠 Tools & Environment
 - Python 3.x
+- NumPy 2.4.3
+- Pandas 3.0.1
 - Git & GitHub
 - Kali Linux
 
@@ -97,7 +119,7 @@ python-ml-foundations/
 
 - ✅ Phase 1: Python Mastery
 - ✅ Phase 2: OOP in Python
-- 🔄 Phase 3: Data Handling (Pandas, NumPy)
+- 🔄 Phase 3: Data Handling (NumPy + Pandas)
 - ⬜ Phase 4: SQL + Databases
 - ⬜ Phase 5: Data Cleaning
 - ⬜ Phase 6: Visualization
