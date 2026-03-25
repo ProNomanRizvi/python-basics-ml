@@ -67,8 +67,8 @@ python-ml-foundations/
 | Day | Topic | Key Files |
 |-----|-------|-----------|
 | 13 | NumPy Arrays, Vectorization, Statistical Operations | `numpy_analysis.py`, `student_analyzer.py` |
-| 14 | Pandas — Series, DataFrames, CSV Handling | coming |
-| 15 | Pandas — Filtering, Grouping, Aggregation | coming |
+| 14 | Pandas — DataFrames, CSV, Filtering, Missing Values | `pandas_analysis.py`, `dataframe_analyzer.py` |
+| 15 | Pandas — GroupBy, Aggregation, Merge | coming |
 | 16 | NumPy + Pandas Capstone Project | coming |
 
 ---
@@ -103,6 +103,13 @@ python-ml-foundations/
 - Boolean filtering and masking
 - Array reshaping
 - OOP with NumPy internals
+- Pandas Series and DataFrame
+- CSV loading and saving
+- Handling missing values (fillna, dropna)
+- Boolean filtering on DataFrames
+- Column creation and transformation
+- value_counts, sort_values, idxmax
+- DataFrameAnalyzer class with dynamic null handling
 
 ---
 

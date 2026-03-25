@@ -1,0 +1,11 @@
+name,age,marks,city,scholarship
+Noman,21,88.0,Lahore,True
+Ali,22,55.0,Karachi,False
+Sara,20,92.0,Islamabad,True
+Ahmed,23,43.0,Lahore,False
+Zara,21,78.0,Karachi,False
+Bilal,24,72.0,Lahore,False
+Hina,20,65.0,Islamabad,False
+Omar,22,39.0,Karachi,False
+Fatima,21,91.0,Lahore,True
+Usman,23,72.0,Islamabad,False
