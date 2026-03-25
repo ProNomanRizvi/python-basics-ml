@@ -18,3 +18,8 @@ pivot = df.pivot_table(
     aggfunc="mean"
 )
 print(pivot)
+print("\n\n")
+# Fill missing values with 0
+print("Pivot table with missing values filled: ")
+pivot_filled = pivot.fillna(0)
+print(pivot_filled)
