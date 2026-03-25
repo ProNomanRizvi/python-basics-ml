@@ -1,0 +1,16 @@
+Order_ID,Date,Region,City,Category,Product,Sales,Quantity,Profit
+1001,2025-01-05,North,Lahore,Electronics,Laptop,120000,2,15000
+1002,2025-01-07,South,Karachi,Furniture,Chair,15000,5,3000
+1003,2025-01-08,West,Quetta,Office Supplies,Printer,30000,1,5000
+1004,2025-01-10,North,Islamabad,Electronics,Mobile,80000,4,12000
+1005,2025-01-12,East,Peshawar,Furniture,Table,20000,2,4000
+1006,2025-01-15,South,Karachi,Electronics,Headphones,5000,10,1500
+1007,2025-01-18,West,Quetta,Office Supplies,Paper,2000,20,500
+1008,2025-01-20,North,Lahore,Furniture,Sofa,70000,1,10000
+1009,2025-01-22,East,Peshawar,Electronics,Tablet,40000,3,8000
+1010,2025-01-25,South,Karachi,Office Supplies,Pen,1000,50,300
+1011,2025-01-28,North,Islamabad,Electronics,Laptop,130000,2,18000
+1012,2025-02-01,West,Quetta,Furniture,Chair,16000,4,3500
+1013,2025-02-03,East,Peshawar,Office Supplies,Printer,28000,1,4500
+1014,2025-02-05,South,Karachi,Electronics,Mobile,75000,3,11000
+1015,2025-02-08,North,Lahore,Furniture,Table,22000,2,5000
